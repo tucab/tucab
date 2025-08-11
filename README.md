@@ -34,7 +34,7 @@ Main Pc Specs
 | PSU | Whatever came with the case. I think it's like 850w |
 | Mouse | Pulsar x2h |
 | Keyboard | EPOMAKER x Aula F75 Purple w/ LEOBOG Reaper Switches |
-| Monitor(s) | acer 27' 240hz && SCEPTRE 24' 100hz |
+| Monitor(s) | acer 27" 240hz && SCEPTRE 24" 100hz |
 | Microphone | Razer Seiren V3 Mini (<i>Probably wouldn't get again</i>) |
 | | |<br/>
 <br/>
