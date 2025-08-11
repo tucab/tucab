@@ -29,6 +29,7 @@ Main Pc Specs
 | CPU Cooler | be quiet! Light Loop 360mm White |
 | GPU | AMD RX 7800XT |
 | Ram | 32 GB G.Skill Flare X5 6000 |
+| Storage | 3.5 Tb across 3 drives: 2 Tb Samsung 980 PRO SSD, 1 Tb WD something SSD, ~500 Gb Hard Drive |
 | Mobo | Asus TUF B650E-E Wifi
 | Case | Corsair 4000D Airflow White |
 | PSU | Whatever came with the case. I think it's like 850w |
@@ -45,6 +46,7 @@ Laptop Specs (Dell Inspiron 15 3520)
 | CPU | Intel i5-1235U |
 | GPU | Integrated; Intel Iris Xe |
 | Ram | 16 GB DDR4 2667mHz |
+| Storage | ~500 Gb SSD |
 | Screen | 1080p 16:9 15" 120hz |
 | | |<br/>
 <br/>
