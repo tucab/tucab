@@ -38,6 +38,16 @@ Main Pc Specs
 | Microphone | Razer Seiren V3 Mini (<i>Probably wouldn't get again</i>) |
 | | |<br/>
 <br/>
+
+Laptop Specs (Dell Inspiron 15 3520)
+| | |
+| --- | --- |
+| CPU | Intel i5-1235U |
+| GPU | Integrated; Intel Iris Xe |
+| Ram | 16 GB DDR4 2667mHz |
+| Screen | 1080p 16:9 15" 120hz |
+| | |<br/>
+<br/>
 <!--
 Personal things
 | | |
