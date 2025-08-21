@@ -8,7 +8,7 @@
 - Pronouns: She/They<br/>
 <br/>
 
-# Current linux stuffs
+### Current linux stuffs
 | | |
 | --- | --- |
 | Distro | Debian Trixie (https://debian.org/) |
@@ -22,7 +22,7 @@
 | | |<br/>
 <br/>
 
-# Main Pc Specs
+### Main Pc Specs
 | | |
 | --- | --- |
 | CPU | AMD Ryzen 5 7600X3D |
@@ -40,7 +40,7 @@
 | | |<br/>
 <br/>
 
-# Laptop Specs (Dell Inspiron 15 3520)
+### Laptop Specs (Dell Inspiron 15 3520)
 | | |
 | --- | --- |
 | CPU | Intel i5-1235U |
