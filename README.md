@@ -1,7 +1,7 @@
 ## Hello ;)
 
 
-- I’m currently working on my dotfiles and college
+- I’m currently working on college.
 - Going to college for compsci, learning python and java through that. Might learn golang or Scala later.
 - Human languages I speak: English native, a small amount of German, and I took Elementary Spanish in HS
 - How to reach me: email _@_ householdappliance@metalfan.com
@@ -18,7 +18,7 @@ Current linux stuffs
 | Text Editor/IDE | AstroNvim (https://astronvim.com/) |
 | Music Player | Tauon (https://tauonmusicbox.rocks/) |
 | File Manager | Whatever comes with the de |
-| Web Browser | I'm still finding one I really like, currently chromium (https://www.chromium.org/chromium-projects/) |
+| Web Browser | I'm still finding one I really like, currently thorium (https://thorium.rocks/) |
 | | |<br/>
 <br/>
 
@@ -45,8 +45,8 @@ Laptop Specs (Dell Inspiron 15 3520)
 | --- | --- |
 | CPU | Intel i5-1235U |
 | GPU | Integrated; Intel Iris Xe |
-| Ram | 16 GB DDR4 2667mHz |
-| Storage | ~500 Gb SSD |
+| Ram | 16 GB DDR4 _@_ 2667mHz |
+| Storage | ~500 Gb M.2 SSD && ~256 Gb SATA SSD |
 | Screen | 1080p 16:9 15" 120hz |
 | | |<br/>
 <br/>
@@ -54,7 +54,7 @@ Laptop Specs (Dell Inspiron 15 3520)
 Personal things
 | | |
 | --- | --- |
-| Phone | Samsung Galaxy s25+ (Way overspec'd for what I use it for, I didn't pay for it though) |
+| Phone | Samsung Galaxy s25+ (Way overspec'd for what I use it for) |
 | Watch | Samsung Galaxy Watch6 Classic |
 | Started HRT | Jan 4, 2025 |
 | Least favorite number | Four |
