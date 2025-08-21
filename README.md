@@ -2,7 +2,7 @@
 
 ### A little bit about me
 - I’m currently working on college.
-- Going to college for compsci, learning python and java through that. Might learn golang or Scala later.
+- Going to college for compsci, learning python and later java through that.
 - Human languages I speak: English native, a small amount of German, and I took Elementary Spanish in HS
 - How to reach me: Probably just DM me on Discord (TurtleCabbage)
 - Pronouns: She/They<br/>
