@@ -4,7 +4,7 @@
 - I’m currently working on college.
 - Going to college for compsci, learning python and java through that. Might learn golang or Scala later.
 - Human languages I speak: English native, a small amount of German, and I took Elementary Spanish in HS
-- How to reach me: email _@_ householdappliance@metalfan.com
+- How to reach me: Probably just DM me on Discord (TurtleCabbage)
 - Pronouns: She/They<br/>
 <br/>
 
