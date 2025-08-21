@@ -1,6 +1,6 @@
 ## Hello ;)
 
-
+### A little bit about me
 - I’m currently working on college.
 - Going to college for compsci, learning python and java through that. Might learn golang or Scala later.
 - Human languages I speak: English native, a small amount of German, and I took Elementary Spanish in HS
