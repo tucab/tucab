@@ -14,7 +14,7 @@
 # Current linux stuffs
 | | |
 | --- | --- |
-| Distro | Debian Trixie (https://debian.org/) |
+| Distro | Debian Trixie (https://debian.org/) && PikaOS on my main PC (https://wiki.pika-os.com/en/home)|
 | Shell | Zsh (https://www.zsh.org/) |
 | Terminal | Foot (https://codeberg.org/dnkl/foot) |
 | DE | Gnome (https://www.gnome.org/) |
