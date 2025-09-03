@@ -36,7 +36,7 @@
 | Mobo | Asus TUF B650E-E Wifi
 | Case | Corsair 4000D Airflow White |
 | PSU | Whatever came with the case. I think it's like 850w |
-| Mouse | Pulsar x2h |
+| Mouse | Pulsar x2h Mini Wireless |
 | Keyboard | EPOMAKER x Aula F75 Purple w/ LEOBOG Reaper Switches |
 | Monitor(s) | acer 27" 240hz && SCEPTRE 24" 100hz |
 | Microphone | Razer Seiren V3 Mini (<i>Probably wouldn't get again</i>) |
@@ -48,7 +48,7 @@
 | --- | --- |
 | CPU | Intel i5-1235U |
 | GPU | Integrated; Intel Iris Xe |
-| Ram | 16 GB DDR4 _@_ 2667mHz |
+| Ram | 16 GB DDR4 _@_ 2666mHz |
 | Storage | ~500 Gb M.2 SSD && ~240 Gb SATA SSD |
 | Screen | 1080p 16:9 15" 120hz |
 | | |<br/>
