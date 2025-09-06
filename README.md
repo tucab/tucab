@@ -2,10 +2,10 @@
 
 # A little bit about me
 - I’m currently working on college.
-- Going to college for compsci, learning some programming through that.
+- Going to college for compsci, learning some programming through that. Learning Ruby on my own.
 - Human languages I speak: English natively and a little German
 - How to reach me: Discord DM (TurtleCabbage)
-- Pronouns: She/They<br/>
+- Pronouns: She/They
 <br/>
 
 ![RDT_20250903_1523591478841452927908648](https://github.com/user-attachments/assets/7adf384c-ae42-4aa4-a802-5fa9133b76eb)
@@ -22,7 +22,7 @@
 | Music Player | Tauon (https://tauonmusicbox.rocks/) |
 | File Manager | Whatever comes with the de |
 | Web Browser | Thorium (https://thorium.rocks/) |
-| | |<br/>
+| | |
 <br/>
 
 # Main Pc Specs
@@ -40,7 +40,7 @@
 | Keyboard | EPOMAKER x Aula F75 Purple w/ LEOBOG Reaper Switches |
 | Monitor(s) | acer 27" 240hz && SCEPTRE 24" 100hz |
 | Microphone | Razer Seiren V3 Mini (<i>Probably wouldn't get again</i>) |
-| | |<br/>
+| | |
 <br/>
 
 # Laptop Specs (Dell Inspiron 15 3520)
@@ -51,7 +51,7 @@
 | Ram | 16 GB DDR4 _@_ 2666mHz |
 | Storage | ~500 Gb M.2 SSD && ~240 Gb SATA SSD |
 | Screen | 1080p 16:9 15" 120hz |
-| | |<br/>
+| | |
 <br/>
 <!--
 # Personal things
