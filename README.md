@@ -8,7 +8,8 @@
 - Pronouns: She/They
 <br/>
 
-![RDT_20250903_1523591478841452927908648](https://github.com/user-attachments/assets/7adf384c-ae42-4aa4-a802-5fa9133b76eb)
+![RDT_20250827_1643478480776447824811869](https://github.com/user-attachments/assets/fbbd7188-7889-4838-9c2d-43fd0fc3d9cc)
+
 <br/>
 
 # Current linux stuffs
