@@ -1,4 +1,4 @@
-## Hello ;)
+## Hallo ;)
 
 # A little bit about me
 - I’m currently working on college.
@@ -17,7 +17,7 @@
 | Distro | Debian Trixie (https://debian.org/) && PikaOS on my main PC (https://wiki.pika-os.com/en/home)|
 | Shell | Zsh (https://www.zsh.org/) |
 | Terminal | Foot (https://codeberg.org/dnkl/foot) |
-| DE | Gnome (https://www.gnome.org/) |
+| DE | Gnome (unfortunately) (https://www.gnome.org/) |
 | Text Editor/IDE | AstroNvim (https://astronvim.com/) |
 | Music Player | Tauon (https://tauonmusicbox.rocks/) |
 | File Manager | Whatever comes with the de |
@@ -53,15 +53,3 @@
 | Screen | 1080p 16:9 15" 120hz |
 | | |
 <br/>
-<!--
-# Personal things
-| | |
-| --- | --- |
-| Phone | Samsung Galaxy s25+ (Way overspec'd for what I use it for) |
-| Watch | Samsung Galaxy Watch6 Classic |
-| Started HRT | Jan 4, 2025 |
-| Least favorite number | Four |
-| Mental illnesses | Many (Depression maybe bipolar, anxiety, gender dysphoria, adhd, insomnia) |
-| Favorite color | Pastel purple |
-| | |
--->
