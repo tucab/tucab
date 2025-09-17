@@ -13,7 +13,7 @@
 
 | | |
 | --- | --- |
-| Distro | [Debian Trixie](https://debian.org/) + [Void Linux](https://voidlinux.org/) on my main PC |
+| Distro | [Debian Trixie](https://debian.org/) + [Void Linux](https://voidlinux.org/) |
 | Shell | [Zsh](https://www.zsh.org/) |
 | Terminal | [Kitty](https://sw.kovidgoyal.net/kitty/) for X11 + [Foot](https://codeberg.org/dnkl/foot) for Wayland |
 | DE | [Gnome](https://www.gnome.org/) (moving to [Cinnamon](https://projects.linuxmint.com/cinnamon/) soon)  |
