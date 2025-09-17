@@ -9,7 +9,9 @@
 - Pronouns: She/They
 </br>
 
+<!--
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=turtlecabbage-juno&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 </br>
 
