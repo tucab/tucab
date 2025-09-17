@@ -22,7 +22,7 @@
 | Text Editor/IDE | AstroNvim (https://astronvim.com/) |
 | Music Player | Tauon (https://tauonmusicbox.rocks/) |
 | File Manager | Nemo (https://github.com/linuxmint/nemo)|
-| Web Browser | Thorium (https://thorium.rocks/) |
+| Web Browser | Thorium (https://thorium.rocks/) && Floorp (https://floorp.app/en-US) |
 | | |
 <br/>
 
