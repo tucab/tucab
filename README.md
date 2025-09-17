@@ -2,9 +2,9 @@
 
 ## A little bit about me
 
-- I’m currently working on college.
-- Going to college for compsci. Learning Ruby.
-- Human languages I speak: English natively and a little German
+- Currently *@* UNC Charlotte, compsci major.
+- Learning Ruby.
+- I speak English natively and a little German
 - How to reach me: Discord DM (turtlecabbage)
 - Pronouns: She/They
 </br>
