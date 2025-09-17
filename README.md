@@ -17,7 +17,7 @@
 | --- | --- |
 | Distro | Debian Trixie (https://debian.org/) && Void Linux on my main PC (https://voidlinux.org/)|
 | Shell | Zsh (https://www.zsh.org/) |
-| Terminal | Foot (https://codeberg.org/dnkl/foot) |
+| Terminal | Kitty for X11 (https://sw.kovidgoyal.net/kitty/) && Foot for Wayland (https://codeberg.org/dnkl/foot) |
 | DE | Gnome (unfortunately) (https://www.gnome.org/) |
 | Text Editor/IDE | AstroNvim (https://astronvim.com/) |
 | Music Player | Tauon (https://tauonmusicbox.rocks/) |
