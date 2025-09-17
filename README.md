@@ -13,14 +13,14 @@
 
 | | |
 | --- | --- |
-| Distro | [Debian Trixie](https://debian.org/) && [Void Linux](https://voidlinux.org/) on my main PC |
+| Distro | [Debian Trixie](https://debian.org/) + [Void Linux](https://voidlinux.org/) on my main PC |
 | Shell | [Zsh](https://www.zsh.org/) |
-| Terminal | [Kitty](https://sw.kovidgoyal.net/kitty/) for X11 && [Foot](https://codeberg.org/dnkl/foot) for Wayland |
+| Terminal | [Kitty](https://sw.kovidgoyal.net/kitty/) for X11 + [Foot](https://codeberg.org/dnkl/foot) for Wayland |
 | DE | [Gnome](https://www.gnome.org/) (moving to [Cinnamon](https://projects.linuxmint.com/cinnamon/) soon)  |
 | Text Editor/IDE | [AstroNvim](https://astronvim.com/) |
 | Music Player | [Tauon](https://tauonmusicbox.rocks/) |
 | File Manager | [Nemo](https://github.com/linuxmint/nemo)|
-| Web Browser | [Thorium](https://thorium.rocks/) && [Floorp](https://floorp.app/en-US) |
+| Web Browser | [Thorium](https://thorium.rocks/) + [Floorp](https://floorp.app/en-US) |
 
 </br>
 
@@ -38,7 +38,7 @@
 | PSU | Whatever came with the case. I think it's like 850w |
 | Mouse | Pulsar x2h Mini Wireless |
 | Keyboard | EPOMAKER x Aula F75 Purple w/ LEOBOG Reaper Switches |
-| Monitor(s) | acer 27" 240hz && SCEPTRE 24" 100hz |
+| Monitor(s) | acer 27" 240hz + SCEPTRE 24" 100hz |
 | Microphone | Razer Seiren V3 Mini (*Probably wouldn't get again*) |
 
 </br>
@@ -50,7 +50,7 @@
 | CPU | Intel i5-1235U |
 | GPU | Integrated; Intel Iris Xe |
 | Ram | 16 GB DDR4 *@* 2666mHz |
-| Storage | ~500 Gb M.2 SSD && ~240 Gb SATA SSD |
+| Storage | ~500 Gb M.2 SSD + ~240 Gb SATA SSD |
 | Screen | 1080p 16:9 15" 120hz |
 
 </br>
