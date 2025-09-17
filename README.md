@@ -9,8 +9,6 @@
 - Pronouns: She/They
 </br>
 
-</br>
-
 ## Current linux stuffs
 
 | | |
