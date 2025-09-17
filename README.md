@@ -15,13 +15,13 @@
 # Current linux stuffs
 | | |
 | --- | --- |
-| Distro | Debian Trixie (https://debian.org/) && PikaOS on my main PC (https://wiki.pika-os.com/en/home)|
+| Distro | Debian Trixie (https://debian.org/) && Void Linux on my main PC (https://voidlinux.org/)|
 | Shell | Zsh (https://www.zsh.org/) |
 | Terminal | Foot (https://codeberg.org/dnkl/foot) |
 | DE | Gnome (unfortunately) (https://www.gnome.org/) |
 | Text Editor/IDE | AstroNvim (https://astronvim.com/) |
 | Music Player | Tauon (https://tauonmusicbox.rocks/) |
-| File Manager | Whatever comes with the de |
+| File Manager | Nemo (https://github.com/linuxmint/nemo)|
 | Web Browser | Thorium (https://thorium.rocks/) |
 | | |
 <br/>
