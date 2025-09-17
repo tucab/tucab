@@ -16,7 +16,7 @@
 | Distro | [Debian Trixie](https://debian.org/) + [Void Linux](https://voidlinux.org/) |
 | Shell | [Zsh](https://www.zsh.org/) |
 | Terminal | [Kitty](https://sw.kovidgoyal.net/kitty/) for X11 + [Foot](https://codeberg.org/dnkl/foot) for Wayland |
-| DE | [Gnome](https://www.gnome.org/) (moving to [Cinnamon](https://projects.linuxmint.com/cinnamon/) soon)  |
+| DE | [Gnome](https://www.gnome.org/) (moving to [Cinnamon](https://projects.linuxmint.com/cinnamon/) |
 | Text Editor/IDE | [AstroNvim](https://astronvim.com/) |
 | Music Player | [Tauon](https://tauonmusicbox.rocks/) |
 | File Manager | [Nemo](https://github.com/linuxmint/nemo)|
