@@ -9,6 +9,11 @@
 - Pronouns: She/They
 </br>
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=turtlecabbage-juno&show_icons=true&theme=catppuccin_mocha)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=turtlecabbage-juno&layout=compact&theme=catppuccin_mocha)
+
+</br>
+
 ## Current linux stuffs
 
 | | |
