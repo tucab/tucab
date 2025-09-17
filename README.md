@@ -4,7 +4,7 @@
 - I’m currently working on college.
 - Going to college for compsci, learning some programming through that. Learning Ruby on my own.
 - Human languages I speak: English natively and a little German
-- How to reach me: Discord DM (TurtleCabbage)
+- How to reach me: Discord DM (turtlecabbage)
 - Pronouns: She/They
 <br/>
 
