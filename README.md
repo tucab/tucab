@@ -46,7 +46,7 @@
 
 </br>
 
-## Laptop Specs (Dell Inspiron 15 3520)
+## Laptop Specs (Dell Inspiron 15 3520) (to be replaced soon, battery life sucks)
 
 | | |
 | --- | --- |
