@@ -57,7 +57,7 @@
 | CPU | Intel i5-1235U |
 | GPU | Integrated; Intel Iris Xe |
 | Ram | 16 GB DDR4 *@* 2666mHz |
-| Storage | ~500 Gb M.2 SSD + ~240 Gb SATA SSD |
+| Storage | 512 Gb M.2 SSD + 240 Gb SATA SSD |
 | Screen | 1080p 16:9 15" 120hz |
 
 </br>
