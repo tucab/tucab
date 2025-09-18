@@ -9,10 +9,8 @@
 - Pronouns: She/They
 </br>
 
-<!--
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tucab&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tucab&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 </br>
--->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tucab&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 </br>
