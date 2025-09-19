@@ -22,7 +22,7 @@
 | Terminal | [Kitty](https://sw.kovidgoyal.net/kitty/) for X11 + [Foot](https://codeberg.org/dnkl/foot) for Wayland |
 | DE | [Cinnamon](https://projects.linuxmint.com/cinnamon/) |
 | Text Editor/IDE | [AstroNvim](https://astronvim.com/) |
-| Music Player | [Tauon](https://tauonmusicbox.rocks/) |
+| Music Player | [Harmonoid](https://harmonoid.com/) |
 | File Manager | [Nemo](https://github.com/linuxmint/nemo)|
 | Web Browser | [Thorium](https://thorium.rocks/) + [Floorp](https://floorp.app/en-US) |
 
