@@ -46,7 +46,7 @@
 
 </br>
 
-## Laptop Specs (Framework 13)
+## Laptop Specs ([Framework 13](https://frame.work/laptop13))
 
 | | |
 | --- | --- |
