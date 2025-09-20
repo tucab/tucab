@@ -46,15 +46,15 @@
 
 </br>
 
-## Laptop Specs (Dell Inspiron 15 3520) (to be replaced by a Framework laptop)
+## Laptop Specs (Framework 13)
 
 | | |
 | --- | --- |
-| CPU | Intel i5-1235U |
-| GPU | Integrated; Intel Iris Xe |
-| Ram | 16 GB DDR4 *@* 2666mHz |
-| Storage | 512 Gb M.2 SSD + 240 Gb SATA SSD |
-| Screen | 1080p 16:9 15" 120hz |
+| CPU | Intel Ultra 5 125H |
+| GPU | Integrated |
+| Ram | 32 GB DDR5 *@* 5600mHz |
+| Storage | 512 Gb M.2 SSD |
+| Screen | 2256x1504 3:2 13" 60hz |
 
 </br>
 
