@@ -1,4 +1,4 @@
-# Hello :3
+# Hello
 
 ## A little bit about me
 
