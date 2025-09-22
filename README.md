@@ -21,7 +21,7 @@
 | Shell | [Zsh](https://www.zsh.org/) |
 | Terminal | [Kitty](https://sw.kovidgoyal.net/kitty/) |
 | DE | [Cinnamon](https://projects.linuxmint.com/cinnamon/) |
-| Text Editor/IDE | [AstroNvim](https://astronvim.com/) + [Doom Emacs](https://github.com/doomemacs/doomemacs) |
+| Text Editor/IDE | [Doom Emacs](https://github.com/doomemacs/doomemacs) | <!--+ [AstroNvim](https://astronvim.com/) -->
 | Music Player | [Harmonoid](https://harmonoid.com/) |
 | File Manager | [Nemo](https://github.com/linuxmint/nemo)|
 | Web Browser | [Floorp](https://floorp.app/en-US) |
