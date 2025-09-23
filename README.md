@@ -7,6 +7,7 @@
 - I speak English natively and a little German
 - How to reach me: Discord DM (turtlecabbage)
 - Pronouns: She/They
+- ENTP
 </br>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=tucab&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
