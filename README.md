@@ -18,10 +18,10 @@
 
 | | |
 | --- | --- |
-| Distro | [Debian Trixie](https://debian.org/) + [Void Linux](https://voidlinux.org/) |
+| Distro | [Void Linux](https://voidlinux.org/) |
 | Shell | [Zsh](https://www.zsh.org/) |
 | Terminal | [Kitty](https://sw.kovidgoyal.net/kitty/) |
-| DE | [Cinnamon](https://projects.linuxmint.com/cinnamon/) |
+| DE/WM | [Qtile](https://qtile.org/) |
 | Text Editor/IDE | [Doom Emacs](https://github.com/doomemacs/doomemacs) | <!--+ [AstroNvim](https://astronvim.com/) -->
 | Music Player | [Harmonoid](https://harmonoid.com/) |
 | File Manager | [Nemo](https://github.com/linuxmint/nemo)|
