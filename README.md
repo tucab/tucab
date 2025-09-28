@@ -18,11 +18,11 @@
 
 | | |
 | --- | --- |
-| Distro | [Void Linux](https://voidlinux.org/) |
+| Distro | [Fedora](https://fedoraproject.org/) |
 | Shell | [Zsh](https://www.zsh.org/) |
 | Terminal | [Kitty](https://sw.kovidgoyal.net/kitty/) |
-| DE/WM | [Qtile](https://qtile.org/) |
-| Text Editor/IDE | [Doom Emacs](https://github.com/doomemacs/doomemacs) | <!--+ [AstroNvim](https://astronvim.com/) -->
+| DE/WM | [Niri](https://github.com/YaLTeR/niri/) |
+| Text Editor/IDE | [Doom Emacs](https://github.com/doomemacs/doomemacs) |
 | Music Player | [Harmonoid](https://harmonoid.com/) |
 | File Manager | [Nemo](https://github.com/linuxmint/nemo)|
 | Web Browser | [Floorp](https://floorp.app/en-US) |
