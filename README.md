@@ -55,6 +55,7 @@
 | GPU | Integrated |
 | Ram | 32 GB DDR5 *@* 5600mHz |
 | Storage | 512 Gb M.2 SSD |
+| Battery | 61Wh |
 | Screen | 2256x1504 3:2 13" 60hz |
 
 </br>
