@@ -29,7 +29,7 @@
 
 </br>
 
-## Main Pc Specs
+## Desktop Specs
 
 | | |
 | --- | --- |
