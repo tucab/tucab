@@ -23,7 +23,7 @@
 | Terminal | [Kitty](https://sw.kovidgoyal.net/kitty/) |
 | DE/WM | [Niri](https://github.com/YaLTeR/niri/) |
 | Text Editor/IDE | [Doom Emacs](https://github.com/doomemacs/doomemacs) |
-| Music Player | [Harmonoid](https://harmonoid.com/) |
+| Music Player | [kew](https://github.com/ravachol/kew) |
 | File Manager | [Nemo](https://github.com/linuxmint/nemo)|
 | Web Browser | [Floorp](https://floorp.app/en-US) |
 
