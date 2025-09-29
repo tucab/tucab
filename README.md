@@ -5,7 +5,7 @@
 - Student @ UNCC, compsci major.
 - Learning Ruby.
 - I speak English natively and a little German
-- How to reach me: Discord DM (turtlecabbage)
+- How to reach me: Discord
 - Pronouns: She/They
 - ENTP
 </br>
