@@ -2,7 +2,7 @@
 
 ## A little bit about me
 
-- Student *@* UNCC, compsci major.
+- Student @ UNCC, compsci major.
 - Learning Ruby.
 - I speak English natively and a little German
 - How to reach me: Discord DM (turtlecabbage)
@@ -53,7 +53,7 @@
 | --- | --- |
 | CPU | Intel Ultra 5 125H |
 | GPU | Integrated |
-| Ram | 32 GB DDR5 *@* 5600mHz |
+| Ram | 32 GB DDR5 @ 5600mHz |
 | Storage | 512 Gb M.2 SSD |
 | Battery | 61Wh |
 | Screen | 2256x1504 3:2 13" 60hz |
