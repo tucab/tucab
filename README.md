@@ -18,12 +18,12 @@
 
 | | |
 | --- | --- |
-| Distro | [Fedora](https://fedoraproject.org/) |
+| Distro | [Gentoo](https://gentoo.org/) |
 | Shell | [Zsh](https://www.zsh.org/) |
 | Terminal | [Kitty](https://sw.kovidgoyal.net/kitty/) |
 | DE/WM | [Niri](https://github.com/YaLTeR/niri/) |
 | Text Editor/IDE | [Doom Emacs](https://github.com/doomemacs/doomemacs) |
-| Music Player | [kew](https://github.com/ravachol/kew) |
+| Music Player | [Quod Libet](https://quodlibet.readthedocs.io/en/latest) |
 | File Manager | [Nemo](https://github.com/linuxmint/nemo)|
 | Web Browser | [Floorp](https://floorp.app/en-US) |
 
