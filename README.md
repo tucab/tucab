@@ -19,13 +19,13 @@
 | | |
 | --- | --- |
 | Distro | [Gentoo](https://gentoo.org/) |
-| Shell | [Zsh](https://www.zsh.org/) |
+| Shell | [Bash](https://www.gnu.org/software/bash/) |
 | Terminal | [Kitty](https://sw.kovidgoyal.net/kitty/) |
 | DE/WM | [Niri](https://github.com/YaLTeR/niri/) |
-| Text Editor/IDE | [Doom Emacs](https://github.com/doomemacs/doomemacs) |
+| Text Editor/IDE | [Neovim](https://neovim.io/) |
 | Music Player | [Quod Libet](https://quodlibet.readthedocs.io/en/latest) |
-| File Manager | [Nemo](https://github.com/linuxmint/nemo)|
-| Web Browser | [Floorp](https://floorp.app/en-US) |
+| File Manager | [Nemo](https://github.com/linuxmint/nemo) |
+| Web Browser | [Chromium](https://chromium.org/Home/) |
 
 </br>
 
