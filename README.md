@@ -18,7 +18,7 @@
 
 | | |
 | --- | --- |
-| Distro | [Gentoo](https://gentoo.org/) |
+| Distro | [Chimera Linux](https://chimera-linux.org/) |
 | Shell | [Bash](https://www.gnu.org/software/bash/) |
 | Terminal | [Kitty](https://sw.kovidgoyal.net/kitty/) |
 | DE/WM | [Niri](https://github.com/YaLTeR/niri/) |
