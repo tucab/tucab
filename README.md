@@ -23,8 +23,8 @@
 | Terminal | [Kitty](https://sw.kovidgoyal.net/kitty/) |
 | DE/WM | [Niri](https://github.com/YaLTeR/niri/) |
 | Text Editor/IDE | [Neovim](https://neovim.io/) |
-| Music Player | [Quod Libet](https://quodlibet.readthedocs.io/en/latest) |
-| File Manager | [Nemo](https://github.com/linuxmint/nemo) |
+| Music Player | [[kew]() |
+| File Manager | [Nautilus]() |
 | Web Browser | [Chromium](https://chromium.org/Home/) |
 
 </br>
