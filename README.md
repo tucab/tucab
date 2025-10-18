@@ -3,7 +3,7 @@
 ## A little bit about me
 
 - Student @ UNCC, compsci major.
-- Learning Ruby.
+- Learning Ruby and Elixir.
 - I speak English natively and a little German
 - How to reach me: Discord
 - Pronouns: She/They
@@ -18,13 +18,13 @@
 
 | | |
 | --- | --- |
-| Distro | [Chimera Linux](https://chimera-linux.org/) |
-| Shell | [Bash](https://www.gnu.org/software/bash/) |
+| Distro | [Arch Linux](https://archlinux.org/) |
+| Shell | [zsh](https://www.zsh.org/) |
 | Terminal | [Kitty](https://sw.kovidgoyal.net/kitty/) |
 | DE/WM | [Niri](https://github.com/YaLTeR/niri/) |
 | Text Editor/IDE | [Neovim](https://neovim.io/) |
-| Music Player | [[kew]() |
-| File Manager | [Nautilus]() |
+| Music Player | [[kew](https://github.com/ravachol/kew/) |
+| File Manager | [Nautilus](https://apps.gnome.org/Nautilus/) |
 | Web Browser | [Chromium](https://chromium.org/Home/) |
 
 </br>
